@@ -1,0 +1,6 @@
+@Aubrant.TodoService_HostAddress = http://localhost:5077
+
+GET {{Aubrant.TodoService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
